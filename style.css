@@ -1,0 +1,50 @@
+@font-face {
+    font-family: krishna;
+    src: url(./Krishna.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: krishna;
+    color: white;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+main {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    position: relative;
+    padding: 5rem;
+}
+
+video {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    cursor: pointer;
+
+    /* background-image: url(./text\ bg.gif);
+    background-size: cover;
+    background-position: center;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text; */
+}
