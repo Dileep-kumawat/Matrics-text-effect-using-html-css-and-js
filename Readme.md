@@ -13,13 +13,13 @@ The text beautifully morphs from random Devanagari characters into your chosen p
 
 ## 🎥 Demo Video
 
-🔗 **Demo Video:** [click to watch]()
+🔗 **Demo Video:** [click to watch](https://youtu.be/3XEjZYJYsvo)
 
 ---
 
 ## 🌐 Live Demo
 
-🔗 **Live Project:** []()
+🔗 **Live Project:** [https://dileep-kumawat.github.io/Matrics-text-effect-using-html-css-and-js/](https://dileep-kumawat.github.io/Matrics-text-effect-using-html-css-and-js/)
 
 ---
 
